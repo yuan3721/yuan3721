@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://yuan3721.github.io/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=50&color=ccc&width=1200&lines=Always%20bear%20in%20mind%20that%20your%20own%20resolution%20to%20succeed%20is%20more%20important%20than%20any%20other%20one%20thing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=ccc&width=1200&lines=Always%20bear%20in%20mind%20that%20your%20own%20resolution%20to%20succeed%20is%20more%20important%20than%20any%20other%20one%20thing." alt="Typing SVG" />
   </a>
 </div>
 
