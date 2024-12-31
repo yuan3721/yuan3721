@@ -6,21 +6,23 @@
   </a>
 </div>
 
-<span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=vuedotjs&logoColor=%23fff"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=React&logoColor=%23fff"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Node-%23417E38?style=flat-square&logo=nodedotjs&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-  <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=webpack&logoColor=%23fff">  -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=vite&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23c66394?style=flat-square&logo=Sass&logoColor=%23fff"> 
- 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
-</span>
+<!-- ## 简历
+
+
+## 找工作 -->
+
+![Vue](https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=vuedotjs&logoColor=%23fff)
+![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=React&logoColor=%23fff)
+![Node](https://img.shields.io/badge/Node-%23417E38?style=flat-square&logo=nodedotjs&logoColor=%23fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=vite&logoColor=%23fff)
+![Webpack](https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=webpack&logoColor=%23fff)
+![babel](https://img.shields.io/badge/babel-%23c66394?style=flat-square&logo=babel&logoColor=%23fff)
+![eslint](https://img.shields.io/badge/eslint-%23c66394?style=flat-square&logo=eslint&logoColor=%23fff)
+![git](https://img.shields.io/badge/git-%23c66394?style=flat-square&logo=git&logoColor=%23fff)
 
 ---
+
 
 - Hello world. Never would I have thought that I would appear on the Earth.
 - I'm not that intelligent, but I'm still working hard. 
@@ -32,17 +34,16 @@
 - Idols: Lei Jun, Elon Musk. 
 
 ---
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuan3721&show_icons=true&theme=highcontrast" /> 
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=yuan3721&show_icons=true&theme=highcontrast)
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuan3721&layout=compact&langs_count=4&text_color=fff&icon_color=fff&theme=highcontrast" />
-</div>
+![stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuan3721&layout=compact&langs_count=4&text_color=fff&icon_color=fff&theme=highcontrast)
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuan3721)
+<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuan3721) -->
 
+<!-- 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text) -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+<!-- 
+https://zhuanlan.zhihu.com/p/454597068 -->
