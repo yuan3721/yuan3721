@@ -42,3 +42,7 @@
 </div>
 
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuan3721)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
