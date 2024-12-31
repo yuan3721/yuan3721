@@ -3,8 +3,7 @@
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=vuedotjs&logoColor=%23fff"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=React&logoColor=%23fff"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Node-%23417E38
-?style=flat-square&logo=nodedotjs&logoColor=%23fff"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Node-%23417E38?style=flat-square&logo=nodedotjs&logoColor=%23fff"> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
