@@ -1,4 +1,10 @@
-# Hi, I'm Driven
+# Hi, I'm Driven, a Developer
+
+<div align="left">
+  <a href="https://yuan3721.github.io/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=50&color=ccc&width=1200&lines=Always%20bear%20in%20mind%20that%20your%20own%20resolution%20to%20succeed%20is%20more%20important%20than%20any%20other%20one%20thing." alt="Typing SVG" />
+  </a>
+</div>
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=vuedotjs&logoColor=%23fff"> 
@@ -36,9 +42,3 @@
 </div>
 
 
-
-<!-- <div align="left">
-  <a href="https://yuan3721.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Love and Peace！;爱与和平！&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div> -->
