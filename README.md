@@ -37,8 +37,8 @@
 
 
 
-<div align="left">
-  <a href="https://blog.sunguoqi.com/">
+<!-- <div align="left">
+  <a href="https://yuan3721.github.io/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Love and Peace！;爱与和平！&center=true&size=27" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
