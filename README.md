@@ -18,7 +18,6 @@
 ![Vite](https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=vite&logoColor=%23fff)
 ![Webpack](https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=webpack&logoColor=%23fff)
 ![babel](https://img.shields.io/badge/babel-%23c66394?style=flat-square&logo=babel&logoColor=%23fff)
-![eslint](https://img.shields.io/badge/eslint-%23c66394?style=flat-square&logo=eslint&logoColor=%23fff)
 ![git](https://img.shields.io/badge/git-%23c66394?style=flat-square&logo=git&logoColor=%23fff)
 
 ---
